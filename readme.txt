@@ -9,3 +9,5 @@ Git is free software.
 Git is free software.
 Git is free software.
 Git is free software.
+git commit -m "understand how stage works"
+Git tracks changes of files.
