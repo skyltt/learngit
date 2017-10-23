@@ -15,3 +15,6 @@ Git tracks changes of files.
 Git tracks changes of files.
 Git tracks changes of files.
 git commit -m "understand how stage works"
+git commit -m "understand how stage works"
+git commit -m "understand how stage works"
+git commit -m "understand how stage works"
